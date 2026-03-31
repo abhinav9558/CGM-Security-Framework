@@ -3,8 +3,7 @@
 **A Five-Layer Defense-in-Depth Security Framework for AI-Enabled Continuous Glucose Monitoring Systems**
 
 > Supplementary material for: *"A Security Framework for AI-Enabled Continuous Glucose Monitoring: Translating FDA Guidance into Actionable Controls"*
->
-> Accepted at **CyberAI 2026** — International Conference on Cybersecurity and Artificial Intelligence, Morocco, June 25-26, 2026. Published by Taylor & Francis.
+
 
 ---
 
